@@ -4,13 +4,14 @@ Java PDF Brute Force Cracker.  Works with wordlist or alphabet, to repeatedly at
 Introduced in http://blog.johncrepezzi.com/archives/118
 
 Provides the following cracking methods:
-boolean attempt(String password);
-String crackViaWordlistFiles(Collection<String> wordlistFiles);
-String crackViaWordlistFile(String wordlistFile);
-String crackViaWordlist(Collection<String> words);
-String crackViaBruteForce(String alphabet);
-String crackViaBruteForce(String alphabet, int length);
-String crackViaBruteForce(String alphabet, int lower_length, int upper_length);
+----------------------------------------
+    boolean attempt(String password);
+    String crackViaWordlistFiles(Collection<String> wordlistFiles);
+    String crackViaWordlistFile(String wordlistFile);
+    String crackViaWordlist(Collection<String> words);
+    String crackViaBruteForce(String alphabet);
+    String crackViaBruteForce(String alphabet, int length);
+    String crackViaBruteForce(String alphabet, int lower_length, int upper_length);
 
 Dependencies
 ------------
