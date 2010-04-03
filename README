@@ -1,0 +1,3 @@
+PDF (Pretty Damn Fancy)
+
+Java PDF Brute Force Cracker.  Works with wordlist or alphabet, to repeatedly attempt to open a PDF file.  This was hacked together to solve a day's problem, and maybe it'll be useful to someone else.
