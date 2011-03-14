@@ -1,10 +1,13 @@
-PDF (Pretty Damn Fancy)
------------------------
-Java PDF Brute Force Cracker.  Works with wordlist or alphabet, to repeatedly attempt to open a PDF file.  This was hacked together to solve a day's problem, and maybe it'll be useful to someone else.
-Introduced in http://blog.johncrepezzi.com/archives/118
+# PDF (Pretty Damn Fancy)
 
-Provides the following cracking methods:
-----------------------------------------
+Java PDF Brute Force Cracker.  Works with wordlist or alphabet, to repeatedly attempt to open a PDF file.  This was hacked together to solve a day's problem, and maybe it'll be useful to someone else.
+
+Introduced in [this blog post](http://blog.johncrepezzi.com/archives/118)
+
+---
+
+## Provides the following cracking methods:
+
     boolean attempt(String password);
     String crackViaWordlistFiles(Collection<String> wordlistFiles);
     String crackViaWordlistFile(String wordlistFile);
@@ -13,10 +16,21 @@ Provides the following cracking methods:
     String crackViaBruteForce(String alphabet, int length);
     String crackViaBruteForce(String alphabet, int lower_length, int upper_length);
 
-Dependencies
-------------
-iText
-BouncyCastle
+---
 
-Author: John Crepezzi (2010) <john@crepezzi.com>
+## Dependencies
+
+* iText
+* BouncyCastle
+
+---
+
+### Author
+
+* John Crepezzi [john@crepezzi.com](mailto:john@crepezzi.com)
+
+---
+
+### License
+
 Licensed under the MIT License (attached)
