@@ -18,7 +18,7 @@ Introduced in [this blog post](http://blog.johncrepezzi.com/archives/118)
 
 ---
 
-## Dependencies
+### Dependencies
 
 * iText
 * BouncyCastle
