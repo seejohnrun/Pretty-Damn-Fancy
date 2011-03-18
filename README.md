@@ -4,8 +4,6 @@ Java PDF Brute Force Cracker.  Works with wordlist or alphabet, to repeatedly at
 
 Introduced in [this blog post](http://blog.johncrepezzi.com/archives/118)
 
-Yes
-
 ---
 
 ## Provides the following cracking methods:
