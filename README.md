@@ -27,7 +27,7 @@ Introduced in [this blog post](http://blog.johncrepezzi.com/archives/118)
 
 ### Author
 
-* John Crepezzi [john@crepezzi.com](mailto:john@crepezzi.com)
+* John Crepezzi [john.crepezzi@gmail.com](mailto:john.crepezzi@gmail.com)
 
 ---
 
